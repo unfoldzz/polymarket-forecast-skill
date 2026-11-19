@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.mp4
+*.mkv
+*.mov
+*.srt
+*.ass
+*.zip
+*.pdf
+work/
+output/
+.env
+demo/
+run-*/
+snapshot.json
+ranked.json
